@@ -76,7 +76,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-An Ubuntu:22.04 implementation of my development environment, built on my [Ubuntu Base](ubuntu-base) container image. Additional packages include:
+An Ubuntu 22.04 implementation of Nest, my personal development environment built on my [Ubuntu Base](ubuntu-base) container image. For working with my legacy projects that I haven't yet converted to work with Alpine Linux. I will not be activly maintaining this environment and plan to archive it once all my projects are implemented in Alpine.
+Additional packages include:
 * git
 * npm
 * zsh
@@ -159,7 +160,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-
+* [Nest icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/nest)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
