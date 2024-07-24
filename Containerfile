@@ -35,8 +35,6 @@ RUN mv zshrc ~/.zshrc
 RUN wget https://raw.githubusercontent.com/n3ddu8/zsh-config/main/p10k.zsh
 RUN mv p10k.zsh ~/.p10k.zsh
 
-RUN chsh /bin/zsh
-
 RUN git clone https://github.com/neovim/neovim /usr/src/neovim
 
 WORKDIR /usr/src/neovim
